@@ -1,0 +1,58 @@
+.title-banner{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-my-brand{
+    background: orange;
+}
+
+.banner{
+    /* height: 96vh;
+    background: url("../image/benjamin-voros-phIFdC6lA4E-unsplash.jpg");
+    background-size: cover;
+    background-position: center center;
+    padding: 100px; */
+}
+.image-banner{
+    /* height: 100vh;
+    background-position: center center !important;
+    background-size: cover !important; */
+    height: 100vh;
+    overflow: hidden;
+}
+/* .image-banner img{
+    height: 100%;
+} */
+
+.box-service{
+    padding: 15px;
+}
+
+.green{
+    background-color: greenyellow;
+}
+
+.blue{
+    background-color: aqua;
+}
+
+.red{
+    background-color: brown;
+}
+
+.item-article{
+    margin-top: 80px;
+    border-bottom: 1px solid #dedede;
+    padding-bottom: 30px;
+}
+.article-text{
+   display: flex;
+   justify-content: center; 
+   flex-direction: column;
+   min-height: 400px;
+}
+
+.nav-item .nav-link{
+    font-weight: 600;
+    font-size: 14px;
+}
